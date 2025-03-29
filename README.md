@@ -3,13 +3,13 @@
 <div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rrabbiitt&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkm4512&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrabbiitt&layout=compact" />
 </div>
 
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-FF7800.svg?style=for-the-badge&logoColor=whtie" />&nbsp
-  <img src="https://img.shields.io/badge/JavaSpring-03C75A.svg?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C#-FF7800.svg?style=for-the-badge&logoColor=whtie" />&nbsp
+  <!-- <img src="https://img.shields.io/badge/JavaSpring-03C75A.svg?style=for-the-badge&logoColor=white" />&nbsp-->
 </div>
 
 <h3 align="center"> Infra </h3>
