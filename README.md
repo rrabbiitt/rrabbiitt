@@ -8,7 +8,7 @@
 
 <h3 align="center"> Tech Stack </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/C#-FF7800.svg?style=for-the-badge&logoColor=whtie" />&nbsp
+  <img src="https://img.shields.io/badge/Csharp-FF7800.svg?style=for-the-badge&logoColor=whtie" />&nbsp
   <!-- <img src="https://img.shields.io/badge/JavaSpring-03C75A.svg?style=for-the-badge&logoColor=white" />&nbsp-->
 </div>
 
