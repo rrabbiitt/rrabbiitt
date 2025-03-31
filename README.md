@@ -14,7 +14,8 @@
 ### 👩‍💻 About Me - Daeun Hwang
 
 - ✨ I enjoy building interactive and meaningful applications — whether it's a game or not  
-- 🛠 Comfortable with **object-oriented programming** and building features from scratch  
+- 🛠 Comfortable with **object-oriented programming** and building features from scratch
+- 📚 Graduated with a degree in **Computer Software**, with strong foundational knowledge in programming and algorithms  
 - 🚀 Proficient in **Unity**, **C#**, and also experienced with TypeScript and front-end logic  
 - 📱 Have launched working prototypes on **mobile** and tested **XR** interaction concepts  
 - 🤝 Strong **communicator** and team player — I love making ideas come to life with others
