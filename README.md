@@ -46,7 +46,7 @@
 |--------|-------------|
 | 🏹 **DugiXR** | An XR experience combining Korean traditional games with hand tracking and immersive interactions |
 | 📸 **AR Kiosk** | A face-tracking camera application using AR technology, designed for mobile interaction |
-| 🚀 **CosmicDriftVR** | A hyper-casual multiplayer VR game where up to 4 players become space treasure hunters and compete in mini-game leagues |
+| 🚀 **CosmicDriftVR** | A hyper-casual multiplayer VR game where up to 4 players compete in mini-game leagues |
 
 ---
 
