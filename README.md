@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="mailto:rrabbiitt@naver.com">📧 Email</a> •
-  <a href="https://instagram.com/h_dawny0112" target="_blank">📷 Instagram</a>
+  <a href="https://instagram.com/h_dawny0112" target="_blank">📷 Instagram</a> •
+  <a href="https://blog.naver.com/yourblogid" target="_blank">💬 Blog</a>
 </p>
 
 ---
@@ -20,7 +21,7 @@
 - 📱 Have launched working prototypes on **mobile** and tested **XR** interaction concepts  
 - 🤝 Strong **communicator** and team player — I love making ideas come to life with others
 - 🎮 Master-ranked in TFT (Set 10–13) — strong game sense and decision-making  
-- 🕹️ 200+ hours in console games like *The Witcher* and more — sharp mechanics included
+- 🕹️ 200+ hours in console games like *The Witcher 3* and more — sharp mechanics included
   
 
 ---
