@@ -1,46 +1,73 @@
-<div align="center">
-  <h1> HELLO WORLD ! </h1> 
-<div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rrabbiitt&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrabbiitt&layout=compact" />
-</div>
+<!-- 상단 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20A%20Wild%20Developer%20Appeared!%20✨&fontSize=40&fontAlignY=35" />
 
-<h3 align="center"> Tech Stack </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Csharp-FF7800.svg?style=for-the-badge&logoColor=whtie" />&nbsp
-  <!-- <img src="https://img.shields.io/badge/JavaSpring-03C75A.svg?style=for-the-badge&logoColor=white" />&nbsp-->
-</div>
+<!-- 간단 소개 -->
+<h3 align="center">🎮 Game Maker, Mood Lover, Code Wrangler 🎮</h3>
 
-<h3 align="center"> Infra </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-5395FD.svg?style=for-the-badge&logoColor=whtie" />&nbsp
-  <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logoColor=whtie" />&nbsp
-</div>
+<p align="center">
+  <a href="mailto:rrabbiitt@naver.com">📧 Email</a> •
+  <a href="https://instagram.com/h_dawny0112" target="_blank">📷 Instagram</a>
+</p>
 
-<br>
+---
 
-<h3 align="center"> Database </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logoColor=whtie" />&nbsp
-  <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logoColor=whtie" />&nbsp
-</div>
+### 👩‍💻 About Me - Daeun Hwang
 
-<br>
+- ✨ I enjoy building interactive and meaningful applications — whether it's a game or not  
+- 🛠 Comfortable with **object-oriented programming** and building features from scratch  
+- 🚀 Proficient in **Unity**, **C#**, and also experienced with TypeScript and front-end logic  
+- 📱 Have launched working prototypes on **mobile** and tested **XR** interaction concepts  
+- 🤝 Strong **communicator** and team player — I love making ideas come to life with others
+- 🎮 Master-ranked in TFT (Set 10–13) — strong game sense and decision-making  
+- 🕹️ 200+ hours in console games like *The Witcher* and more — sharp mechanics included
+  
 
-<h3 align="center"> Tools </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Intellij-000000.svg?style=for-the-badge&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+### 🧰 Tech Stack
 
-<h3 align="center"> Contact </h3>
-<div align="center">
-  <a href="https://velog.io/@terror/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+
+---
+
+### 🧩 Highlight Projects
+
+| Project | Description |
+|--------|-------------|
+| 🏹 **DugiXR** | An XR experience combining Korean traditional games with hand tracking and immersive interactions |
+| 📸 **AR Kiosk** | A face-tracking camera application using AR technology, designed for mobile interaction |
+| 🚀 **CosmicDriftVR** | A hyper-casual multiplayer VR game where up to 4 players become space treasure hunters and compete in mini-game leagues |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rrabbiitt&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrabbiitt&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### ✨ Quote I Like
+
+> _"To protect the world from devastation!
+To unite all peoples within our nation!
+To denounce the evils of truth and love!
+To extend our reach to the stars above!"_
+
+---
+
+### 🙌 Thanks for visiting!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
