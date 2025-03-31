@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:rrabbiitt@naver.com">📧 Email</a> •
   <a href="https://instagram.com/h_dawny0112" target="_blank">📷 Instagram</a> •
-  <a href="https://blog.naver.com/yourblogid" target="_blank">💬 Blog</a>
+  <a href="https://blog.naver.com/rrabbiitt" target="_blank">💬 Blog</a>
 </p>
 
 ---
