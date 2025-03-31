@@ -59,9 +59,9 @@
 
 ### ✨ Quote I Like
 
-> _"To protect the world from devastation!
-To unite all peoples within our nation!
-To denounce the evils of truth and love!
+> _"To protect the world from devastation!  
+To unite all peoples within our nation!  
+To denounce the evils of truth and love!  
 To extend our reach to the stars above!"_
 
 ---
